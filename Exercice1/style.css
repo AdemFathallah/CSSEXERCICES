@@ -1,0 +1,35 @@
+form{
+    color: red;
+    margin-left: 45%;
+}
+.titre{
+    text-align: center;
+    color: red;
+}
+input, button{
+    display: block; /* make elements block*/
+}
+input{
+    border: 0;
+    border-bottom: 1px solid red;
+}
+input{
+    margin:10px 0;
+    font-size: 20px; 
+    padding-left: 2%;
+    outline: none;
+}
+label{
+     font-size: 18px; /*text email and password yekber chwaya */
+}
+.titre{
+    margin-bottom: 80px; /*email ya7bet louta*/
+}
+button{
+    background-color: red;
+    border: 0;
+    color: white;
+    width:225px ;  /*largeur*/
+    padding: 5px 0; /*epaisseur de boutons*/
+    margin-top: 10px;
+}

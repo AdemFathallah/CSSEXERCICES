@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+}
+p{
+    display: inline-block;
+    color: white;
+    width: 250px;
+    opacity: 0.3;
+    background-color: black;
+    font-size: 30px;
+    margin-left: 15%;
+    padding: 20px 10px;
+}
+body{
+    background-image: url(cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p:hover{
+    opacity: 1;
+}

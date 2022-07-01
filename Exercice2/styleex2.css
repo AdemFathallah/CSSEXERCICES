@@ -1,0 +1,14 @@
+.titre{
+    text-align: center;
+    color: black;
+
+}
+p{
+    display: inline-block;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.img{
+    height: 140px;
+}
